@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1587742004 source:d:\codeblocks\projekty\gra\gra.cpp
+	<iostream>
+	"gra.h"
+	<conio.h>
+	<conio.h>
+	<cstdlib>
+	<vector>
+
+1587742026 d:\codeblocks\projekty\gra\gra.h
+	<iostream>
+	<windows.h>
+	<vector>
+
+1587741778 source:d:\codeblocks\projekty\gra\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	"gra.h"
+
